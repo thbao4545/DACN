@@ -1,8 +1,8 @@
-### For Backend
+## For Backend
 pipenv shell
 
 uvicorn  main:app --reload
 
-### For Frontend
+## For Frontend
 npm i
 npm start
